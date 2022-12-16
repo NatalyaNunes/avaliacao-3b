@@ -1,0 +1,27 @@
+.bc-blue{
+    background-color: rgb(3, 172, 172);
+    color: white;
+}
+.bc-green{
+    background-color: green;
+    color: white;
+}
+.bc-orange{
+    background-color: orangered;
+    color: white;
+}
+.bc-yellow{
+    background-color: rgb(194, 194, 4);
+    color: white;
+}
+.bc-purple{
+    background-color: blueviolet;
+    color: white;
+}
+.bc-pink{
+    background-color: rgb(223, 43, 199);
+    color: white;
+}
+.bc-grey{
+    background-color: rgba(39, 39, 39, 0.226);
+}
